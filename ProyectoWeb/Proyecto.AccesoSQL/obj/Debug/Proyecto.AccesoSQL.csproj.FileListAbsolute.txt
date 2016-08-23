@@ -1,0 +1,6 @@
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\bin\Debug\Proyecto.AccesoSQL.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\bin\Debug\Proyecto.AccesoSQL.pdb
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\bin\Debug\NReco.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\bin\Debug\NReco.xml
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\obj\Debug\Proyecto.AccesoSQL.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.AccesoSQL\obj\Debug\Proyecto.AccesoSQL.pdb

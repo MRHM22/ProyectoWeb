@@ -1,0 +1,6 @@
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\bin\Debug\Proyecto.Negocio.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\bin\Debug\Proyecto.Negocio.pdb
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\bin\Debug\NReco.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\bin\Debug\NReco.xml
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\obj\Debug\Proyecto.Negocio.dll
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\Proyecto.Negocio\obj\Debug\Proyecto.Negocio.pdb

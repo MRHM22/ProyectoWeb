@@ -1,0 +1,9 @@
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Roberto\Documents\GitHub\ProyectoWeb\ProyectoWeb\WindowsForms\obj\Debug\WindowsForms.pdb
